@@ -9,3 +9,7 @@ Working setup (Mar 2024)
 * Spring Boot 3.2.3
 * maven 14.4
 
+Configuration needed
+
+* spring.datasource.url to connect to a database
+
